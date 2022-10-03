@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-<!--
-**carlshoow/carlshoow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -15,4 +13,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ... I only have enough time to study 1 hour a day, But Im still want to get a job as developer
 
   #2024 is The year I will get a job as a full-stack devops
--->
+
